@@ -1,7 +1,6 @@
 name: nayla_dialog
 description: To be able to show a custom dialog easly.
 version: 0.0.1
-author: Yasin Ege<yasin.ege@naylalabs.com>
 homepage: https://github.com/egeysn/nayla_dialog
 
 environment:
