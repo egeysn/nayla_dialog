@@ -1,7 +1,8 @@
 name: nayla_dialog
-description: A new Flutter package project.
+description: To be able to show a custom dialog easly.
 version: 0.0.1
-homepage:
+author: Yasin Ege<yasin.ege@naylalabs.com>
+homepage: https://github.com/egeysn/nayla_dialog
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
