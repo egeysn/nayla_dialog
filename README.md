@@ -11,5 +11,5 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-Flutter Custom Library
+Flutter Custom Library -
 Custom Dialog Sample
